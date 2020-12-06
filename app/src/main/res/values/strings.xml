@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button">Button</string>
+    <string name="text1">value: </string>
+    <string name="content_description_media">image</string>
+    <string name="title">titre</string>
+    <string name="secondary_text">texte1</string>
+    <string name="supporting_text">texte2</string>
+    <string name="action_1">action1</string>
+    <string name="action_2">action2</string>
+    <string name="browser">ouvrir navigateur</string>
+</resources>
