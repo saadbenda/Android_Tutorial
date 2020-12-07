@@ -34,11 +34,10 @@ public class MainActivity3 extends AppCompatActivity {
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-              Intent intent = new Intent(getApplicationContext(), MainActivity4.class).putExtra("index_image", position);
-             startActivity(intent);
+                Intent intent = new Intent(getApplicationContext(), MainActivity4.class).putExtra("index_image", position);
+                startActivity(intent);
             }
         });
-
 
 
     }
