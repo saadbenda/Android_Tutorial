@@ -12,4 +12,14 @@
     <string name="action_1">action1</string>
     <string name="action_2">action2</string>
     <string name="browser">ouvrir navigateur</string>
+    <string name="btn_form">formulaire</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="listViewRel">listViewRelative</string>
+    <string name="imageDescription">image of a guy</string>
+    <string-array name="items">
+        <item>PS3</item>
+        <item>PS4</item>
+        <item>PS5</item>
+    </string-array>
 </resources>
