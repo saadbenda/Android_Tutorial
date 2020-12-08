@@ -1,2 +1,2 @@
 ## Version 3.0         
-![v3.0](doc/v3.0.gif)
+<img src="doc/v3.0.gif" width="200" height="400" />
